@@ -1,6 +1,6 @@
-Ride Booking Analytics Dashboard
+🚖 Ride Booking Analytics Dashboard
 
-This Power BI project provides a comprehensive analysis of ride booking operations using a dataset containing 150,000 ride records.
+This project presents an interactive Power BI dashboard built to analyze ride booking operations and business performance using over 150,000 ride booking records. The dashboard provides valuable insights into revenue generation, ride completion rates, customer satisfaction, driver performance, booking trends, and cancellation analysis.
 
 Objectives
 Analyze booking trends and ride performance.
