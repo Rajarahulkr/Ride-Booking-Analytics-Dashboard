@@ -112,9 +112,9 @@ Total Records Analyzed: **150,000+**
 Example:
 
 ```
-images/dashboard-overview.png
-images/revenue-analysis.png
-images/cancellation-analysis.png
+overview.png
+revenue.png
+cancellation.png
 ```
 
 ---
