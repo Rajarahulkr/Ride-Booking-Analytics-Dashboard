@@ -112,9 +112,9 @@ Total Records Analyzed: **150,000+**
 Example:
 
 ```
-overview.png
-revenue.png
-cancellation.png
+https://github.com/Rajarahulkr/Ride-Booking-Analytics-Dashboard/blob/main/overview.png
+https://github.com/Rajarahulkr/Ride-Booking-Analytics-Dashboard/blob/main/revenue.png
+https://github.com/Rajarahulkr/Ride-Booking-Analytics-Dashboard/blob/main/cancellation.png 
 ```
 
 ---
