@@ -107,16 +107,22 @@ Total Records Analyzed: **150,000+**
 
 ## 📷 Dashboard Preview
 
-(Add dashboard screenshots here)
-
 Example:
 
 ```
-![Overview](Dashboard%20Overview.png)
+<h1>📷 Dashboard Preview</h1>
 
-![Revenue](Revenue%20Analysis.png)
+<p align="center">
+  <img src="overview.png" width="900">
+</p>
 
-![Cancellation](Cancellation%20Analysis.png) 
+<p align="center">
+  <img src="revenue.png" width="900">
+</p>
+
+<p align="center">
+  <img src="Cancellation.png" width="900">
+</p>
 ```
 
 ---
